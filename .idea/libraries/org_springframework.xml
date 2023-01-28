@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="org.springframework">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" />
+      <root url="file://$USER_HOME$/Downloads/jar_files" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data" recursive="false" type="SOURCES" />
+  </library>
+</component>
